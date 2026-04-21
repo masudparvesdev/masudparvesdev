@@ -51,15 +51,18 @@
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvesdev&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="170" src="https://streak-stats.demolab.com?user=masudparvesdev&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudparvesdev&bg_color=0f172a&color=38bdf8&line=2563eb&point=7c3aed&area=true&hide_border=true" /> </p>
 
 
-💬 Developer Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+## 💬 Developer Quote
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=We+need+to+be+careful+with+AI;Powerful+technology+requires+responsibility;Keep+learning+and+building+🚀" />
+</p>
 
 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/masudparvesdev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.urbongobazar.com"> <img src="https://img.shields.io/badge/Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:admin@urbongobazar.com"> <img src="https://img.shields.io/badge/Email-e11d48?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ## 🧠 What I Do
-
-> 💼 **Frontend Developer**  
-> 🚀 Learning **Next.js & React**  
-> 🛠 Using **VS Code, Git, GitHub**  
-> 🎯 Goal: Build clean & modern web apps  
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Clean-7c3aed?style=for-the-badge" />
+</p>
