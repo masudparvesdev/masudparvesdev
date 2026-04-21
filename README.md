@@ -13,7 +13,7 @@
 - 💻 I’m focused on **Frontend Development**
 - 🌍 Based in **Bangladesh**
 - 🌐 Website: **https://www.urbongobazar.com**
-- 📫 Reach me: **ttsofficeboy@gmail.com**
+- 📫 Reach me: **admin@urbongobazar.com**
 - ⚡ Goal: **Build modern, clean, and user-friendly web applications**
 
 ---
