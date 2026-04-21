@@ -59,9 +59,9 @@ GOAL
 🌐 Working toward a stronger portfolio
 🚀 Uploading more real projects regularly
 
-> GITHUB_ANALYTICS.live
+GITHUB_ANALYTICS.live
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0b1026&title_color=00f5ff&icon_color=39ff14&text_color=ffffff" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvesdev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0b1026&title_color=00f5ff&text_color=ffffff" /> </p> <p align="center"> <img height="180" src="https://streak-stats.demolab.com?user=masudparvesdev&theme=chartreuse-dark&hide_border=true&background=0B1026&ring=00F5FF&fire=39FF14&currStreakLabel=FF2E88" /> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudparvesdev&bg_color=0b1026&color=00f5ff&line=39ff14&point=ff2e88&area=true&hide_border=true" /> </p>
-> DEV_QUOTE.txt
+DEV_QUOTE.txt
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4200&pause=1200&color=FF2E88&center=true&vCenter=true&width=900&lines=%22Code.+Learn.+Build.+Repeat.%22;%22Stay+consistent%2C+skills+will+follow.%22;%22Small+commits+become+big+progress.%22" /> </p>
-> SYSTEM_FOOTER
+SYSTEM_FOOTER
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,25:00f5ff,50:7c00ff,75:0b1026,100:050816&height=120&section=footer" /> </p> <p align="center"> <b>ACCESS GRANTED //</b> Welcome to my GitHub profile </p> ```
