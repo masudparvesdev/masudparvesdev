@@ -83,3 +83,13 @@ const masud = {
   tools: ["VS Code", "Git", "GitHub"],
   goal: "Become a professional full-stack web developer"
 };
+## 🚀 What I Do
+
+- 🎯 Build responsive websites
+- ⚡ Work with React & Next.js
+- 🎨 Focus on clean UI/UX design
+
+## 📌 Current Projects
+
+- 🛒 E-commerce Website
+- 🌐 Portfolio Website
