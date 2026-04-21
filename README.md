@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eadcf8,50:dbeafe,100:e0e7ff&height=180&section=header&text=Md%20Masud%20Parvez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Learning%20Next.js&descAlignY=68&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e9d5ff,50:dbeafe,100:cffafe&height=180&section=header&text=Md%20Masud%20Parvez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Learning%20Next.js&descAlignY=68&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -7,35 +7,36 @@
 </p>
 
 <p align="center">
-  [ Frontend developer building clean, responsive, and user-friendly web interfaces ]
+  [ I build modern, responsive and user-friendly web applications with clean code and great user experience. ]
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Designing+Clean+Web+Interfaces;Learning+Next.js+and+React;Building+Professional+Frontend+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Designing+Clean+Web+Interfaces;Learning+Next.js+and+React;Building+Professional+Frontend+Projects" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-masudparvesdev-4b5563?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Website-urbongobazar.com-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Email-admin@urbongobazar.com-e85d75?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=masudparvesdev&style=for-the-badge&color=3b82f6" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-───────────────-cbd5e1?style=flat-square" />
+  <img src="https://img.shields.io/badge/────────────-334155?style=flat-square" />
   <img src="https://img.shields.io/badge/●-38bdf8?style=flat-square" />
   <img src="https://img.shields.io/badge/●-a855f7?style=flat-square" />
   <img src="https://img.shields.io/badge/●-f472b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-───────────────-cbd5e1?style=flat-square" />
+  <img src="https://img.shields.io/badge/────────────-334155?style=flat-square" />
 </p>
 
 ## 👋 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 - 🌱 Currently learning **Next.js**
 - 💻 Focused on **Frontend Development**
@@ -46,81 +47,147 @@
 - 🚀 Goal: **Become a professional full-stack web developer**
 
 </td>
-<td width="40%" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="220" alt="developer illustration" />
+<td width="38%" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="220" />
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🧠 What I Do
+<p align="center">
+  <img src="https://img.shields.io/badge/────────────-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-a855f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-f472b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/────────────-334155?style=flat-square" />
+</p>
 
-<table>
+## 🧠 SYSTEM ACCESS
+
+<p align="center">
+  entry points • external systems • interfaces
+</p>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Role
-Frontend Developer
-
-### 🚀 Learning
-Next.js, React, Modern UI/UX
+### 💻 Development Hub
+Projects, blogs, experiments and resources
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠 Tools
-VS Code, Git, GitHub, npm
-
-### 🎯 Goal
-Build clean, fast, user-friendly web applications
+### 🧪 Tech Laboratory
+Frontend visualization and practice environment
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🛠 Technologies, Projects, and Focus
+## 🎯 SYSTEM CORE
 
-<table>
+<p align="center">
+  runtime capabilities • cognitive stack • engineering doctrine
+</p>
+
+<table width="100%">
 <tr>
-<td align="center" width="34%" valign="top">
+<td width="33%" valign="top">
+
+### 🛠 BUILD SYSTEMS
+Platforms • UI • Frontend Infrastructure
+
+- Scalable web applications
+- Clean and maintainable code
+- Responsive front-end systems
+- Performance & best practices
+
+</td>
+<td width="33%" valign="top">
+
+### 💡 INTERESTS
+AI • Web • Design • Technology
+
+- Frontend development
+- AI & machine learning
+- Modern UI/UX design
+- Open source & tools
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 PHILOSOPHY
+Principles & mindset
+
+- Learn. Build. Improve.
+- Simplicity is power
+- Consistency over intensity
+- Impact over impression
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/────────────────────────────-334155?style=flat-square" />
+</p>
+
+## 🛠 Technologies, Projects, and Domains
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top" align="center">
 
 ### 🛠 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode,npm&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode,npm,firebase&perline=4" />
 </p>
 
 </td>
-<td align="center" width="33%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧪 Projects
 
-- 🚀 Frontend practice projects  
-- 🌐 Portfolio website  
-- 🛒 E-commerce UI work  
+#### 🚀 My First Project
+A beginner friendly project showcasing my early journey.
+
+[github.com/masudparvesdev/my-first-project](https://github.com/masudparvesdev/my-first-project)
+
+<br>
+
+#### 💼 Don With Parves03
+A practice project for improving frontend development skills.
+
+[github.com/masudparvesdev/donwithparves03](https://github.com/masudparvesdev/donwithparves03)
 
 </td>
-<td align="center" width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🧠 Domains
 
-- Frontend Development  
-- Responsive Web Design  
-- UI/UX Improvement  
+- Frontend Development
+- Responsive Design
+- UI/UX Improvement
+- Portfolio Websites
+- Business Websites
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-───────────────-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/────────-38bdf8?style=flat-square" />
-  <img src="https://img.shields.io/badge/-───────────────-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/────────────-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/────────────-334155?style=flat-square" />
 </p>
 
 ## 📊 Vital Statistics
@@ -130,39 +197,18 @@ Build clean, fast, user-friendly web applications
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=default&hide_border=true&title_color=ec4899&icon_color=eab308&text_color=111827" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=default&hide_border=true&title_color=ec4899&icon_color=eab308&text_color=111827" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=masudparvesdev&style=for-the-badge&color=38bdf8" />
+</p>
 
-## 📌 Featured Projects
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🤝 Collaboration & 📬 Contact
 
-### 🚀 My First Project
-My first GitHub learning project
-
-[Open Repository](https://github.com/masudparvesdev/my-first-project)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Don With Parves03
-Practice project for improving frontend skills
-
-[Open Repository](https://github.com/masudparvesdev/donwithparves03)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Collaboration & Contact
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -173,7 +219,7 @@ I’m open to collaborating on:
 - Frontend website projects
 - React / Next.js practice work
 - Responsive UI design
-- Small portfolio or business websites
+- Small business or portfolio websites
 
 </td>
 <td width="50%" valign="top">
@@ -202,7 +248,7 @@ I’m open to collaborating on:
 </tr>
 </table>
 
----
+<br>
 
 <p align="center">
   ⚡ Building clean frontend systems and modern web interfaces
