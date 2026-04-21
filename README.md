@@ -53,18 +53,30 @@
 
 💬 Developer Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
-## 🎯 What I Do
 
 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/masudparvesdev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.urbongobazar.com"> <img src="https://img.shields.io/badge/Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:admin@urbongobazar.com"> <img src="https://img.shields.io/badge/Email-e11d48?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-```javascript
-const masud = {
-  role: "Frontend Developer",
-  learning: ["Next.js", "React", "Modern UI/UX"],
-  tools: ["VS Code", "Git", "GitHub", "npm"],
-  interests: ["Responsive Design", "Clean Code", "Web Apps"],
-  goal: "Build professional, fast, user-friendly web applications"
-};
+## 🧠 What I Do
+
+<table>
+<tr>
+<td>
+
+**👨‍💻 Role**  
+Frontend Developer  
+
+**🚀 Learning**  
+Next.js, React, Modern UI/UX  
+
+**🛠 Tools**  
+VS Code, Git, GitHub, npm  
+
+**🎯 Goal**  
+Build professional, fast, user-friendly web applications  
+
+</td>
+</tr>
+</table>
 
 
