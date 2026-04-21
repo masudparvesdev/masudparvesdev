@@ -59,7 +59,7 @@
 
 ## 🧠 What I Do
 
-- 💼 Role: Frontend Developer  
-- 🚀 Learning: Next.js, React  
-- 🛠 Tools: VS Code, Git, GitHub  
-- 🎯 Goal: Build modern web apps  
+> 💼 **Frontend Developer**  
+> 🚀 Learning **Next.js & React**  
+> 🛠 Using **VS Code, Git, GitHub**  
+> 🎯 Goal: Build clean & modern web apps  
