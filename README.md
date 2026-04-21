@@ -59,24 +59,7 @@
 
 ## 🧠 What I Do
 
-<table>
-<tr>
-<td>
-
-**👨‍💻 Role**  
-Frontend Developer  
-
-**🚀 Learning**  
-Next.js, React, Modern UI/UX  
-
-**🛠 Tools**  
-VS Code, Git, GitHub, npm  
-
-**🎯 Goal**  
-Build professional, fast, user-friendly web applications  
-
-</td>
-</tr>
-</table>
-
-
+- 💼 Role: Frontend Developer  
+- 🚀 Learning: Next.js, React  
+- 🛠 Tools: VS Code, Git, GitHub  
+- 🎯 Goal: Build modern web apps  
