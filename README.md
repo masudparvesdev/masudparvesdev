@@ -1,77 +1,49 @@
-<h1 align="center">Hi 👋, I'm Md Masud Parvez</h1>
-<h3 align="center">Frontend Developer | Learning Next.js</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Frontend+Developer;Learning+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:06b6d4&height=220&section=header&text=Md%20Masud%20Parvez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Learning%20Next.js&descAlignY=58&descSize=18" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;Learning+Next.js+and+React;Building+Modern+Responsive+Websites;Focused+on+Clean+UI%2FUX+Design" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
-
-- 🌱 I’m currently learning **Next.js**
-- 💻 I’m focused on **Frontend Development**
-- 🌍 Based in **Bangladesh**
-- 🌐 Website: **https://www.urbongobazar.com**
-- 📫 Reach me: **admin@urbongobazar.com**
-- ⚡ Goal: **Build modern, clean, and user-friendly web applications**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/masudparvesdev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/masudparvesdev">
+    <img src="https://img.shields.io/badge/GitHub-masudparvesdev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.urbongobazar.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.urbongobazar.com">
+    <img src="https://img.shields.io/badge/Website-UrbongoBazar-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:admin@urbongobazar.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-admin%40urbongobazar.com-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=masudparvesdev&style=for-the-badge&color=2563eb" />
 </p>
 
 ---
 
-## 🛠 Skills
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode,npm" />
-</p>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+- 🌱 Currently learning **Next.js**
+- 💻 Focused on **Frontend Development**
+- 🎨 Interested in **clean, modern UI/UX**
+- 🌍 Based in **Bangladesh**
+- 🌐 Website: **https://www.urbongobazar.com**
+- 📫 Email: **admin@urbongobazar.com**
+- 🚀 Goal: **Become a professional full-stack web developer**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvesdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=masudparvesdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 📌 Featured Projects
-
-- 🚀 [My First Project](https://github.com/masudparvesdev/my-first-project)
-- 💼 [Don With Parves03](https://github.com/masudparvesdev/donwithparves03)
-
----
-
-## 💡 Current Focus
+## 🎯 What I Do
 
 ```javascript
 const masud = {
   role: "Frontend Developer",
   learning: ["Next.js", "React", "Modern UI/UX"],
-  tools: ["VS Code", "Git", "GitHub"],
-  goal: "Become a professional full-stack web developer"
+  tools: ["VS Code", "Git", "GitHub", "npm"],
+  interests: ["Responsive Design", "Clean Code", "Web Apps"],
+  goal: "Build professional, fast, user-friendly web applications"
 };
