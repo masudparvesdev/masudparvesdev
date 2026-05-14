@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:00D9FF,50:7C3AED,100:FF0080&text=UrBongoBazar&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Premium%20Ecommerce%20Platform%20for%20Physical%20%26%20Digital%20Products&descSize=18&descAlignY=70" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+UrBongoBazar;Modern+Ecommerce+Brand;Secure+Admin+%26+User+Dashboard;Physical+%26+Digital+Product+Delivery;Premium+UI%2FUX+%7C+Fast+%7C+Scalable" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+UrBongoBazar;Modern+Ecommerce+Brand;Secure+Admin+%26+User+Dashboard;Physical+%26+Digital+Product+Delivery;Premium+UI%2FUX+%7C+Fast+%7C+Scalable" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 **UrBongoBazar** is a premium ecommerce brand focused on building a modern, secure, and scalable online shopping platform for both **physical products** and **digital products**.
 
-Our goal is to create a professional ecommerce ecosystem with beautiful UI/UX, secure admin control, smart product management, smooth customer experience, and reliable digital delivery.
+Our goal is to create a professional ecommerce ecosystem with beautiful UI/UX, secure admin control, smart product management, smooth customer experience, order tracking, and reliable digital delivery.
 
 ---
 
@@ -87,11 +87,11 @@ Our goal is to create a professional ecommerce ecosystem with beautiful UI/UX, s
 
 | Delivery Method | Status |
 |---|---|
-| 📧 Email Delivery | Supported |
-| 💬 WhatsApp Delivery | Supported |
-| 👤 User Dashboard Delivery | Supported |
-| 🔐 Secure Access | Supported |
-| 📊 Admin Control | Supported |
+| 📧 Email Delivery | ✅ Supported |
+| 💬 WhatsApp Delivery | ✅ Supported |
+| 👤 User Dashboard Delivery | ✅ Supported |
+| 🔐 Secure Access | ✅ Supported |
+| 📊 Admin Control | ✅ Supported |
 
 </div>
 
@@ -107,26 +107,27 @@ Our goal is to create a professional ecommerce ecosystem with beautiful UI/UX, s
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masudparvesdev&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=masudparvesdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=masudparvesdev&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvesdev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvesdev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Activity History
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masudparvesdev&theme=tokyo-night&hide_border=true&area=true&custom_title=UrBongoBazar%20Contribution%20Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=masudparvesdev&theme=tokyo-night&hide_border=true&area=true&custom_title=UrBongoBazar%20Contribution%20Graph" />
 
 </div>
 
@@ -136,7 +137,7 @@ Our goal is to create a professional ecommerce ecosystem with beautiful UI/UX, s
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=masudparvesdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=masudparvesdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -182,7 +183,7 @@ Our goal is to create a professional ecommerce ecosystem with beautiful UI/UX, s
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=Thank+You+For+Visiting+UrBongoBazar;Professional+Ecommerce+%7C+Secure+Platform;Smart+Shopping+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=Thank+You+For+Visiting+UrBongoBazar;Professional+Ecommerce+%7C+Secure+Platform;Smart+Shopping+Experience" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7C3AED,100:00D9FF&height=140&section=footer" />
 
